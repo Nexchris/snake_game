@@ -1,6 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/BZT8rNC8)
+# Space Snake (Pygame)
 
-# Snake Game (Pygame)
+![spacesnake](https://github.com/user-attachments/assets/bda604a0-7d91-4336-a4a2-a569cccf5d00)
 
 Un jeu de **Snake** créé avec **Pygame**, où la rapidité est la clé de la victoire !
 
